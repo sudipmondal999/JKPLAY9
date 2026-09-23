@@ -1,0 +1,6 @@
+{
+  "name": "KingPlay - Music & Stories Platform",
+  "description": "Discover music through YouTube, curate playlists, enjoy real-time Jam Mode listening rooms, and explore captivating audio culture stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

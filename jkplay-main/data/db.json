@@ -1,0 +1,724 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_001",
+      "name": "KingPlay Admin",
+      "username": "admin",
+      "email": "admin@kingplay.io",
+      "role": "admin",
+      "bio": "Platform curator & sound engineer.",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-22T19:45:01.286Z",
+      "passwordHash": "$2b$10$zTedbsDTipQFZHZSBsFMV.2O5TvwOU8hCy8Q4rcUjVd4RJ4lcRdwa"
+    },
+    {
+      "id": "usr_demo_002",
+      "name": "Sayan Rider",
+      "username": "sayan",
+      "email": "sayan@kingplay.io",
+      "role": "user",
+      "bio": "Motorcycle wanderer, audiophile, Himalayan 411 explorer.",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-22T19:45:01.287Z",
+      "passwordHash": "$2b$10$zTedbsDTipQFZHZSBsFMV.2O5TvwOU8hCy8Q4rcUjVd4RJ4lcRdwa"
+    },
+    {
+      "id": "usr_ed7fd54d",
+      "name": "lolo",
+      "username": "sm1374474@gmail.com",
+      "email": "jkmax@731234",
+      "role": "user",
+      "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=sm1374474@gmail.com",
+      "bio": "Music explorer on KingPlay.",
+      "createdAt": "2026-09-22T20:57:39.708Z",
+      "passwordHash": "$2b$10$Va0o3SPNKRaGyvgJ.4gzSuUZ/UBynoXdux5SgH7azcZjXMRP/dErm"
+    },
+    {
+      "id": "usr_b71b876d",
+      "name": "Verified User 1790111966109",
+      "username": "user_1790111966109",
+      "email": "verify_flow_1790111966109@kingplay.test",
+      "role": "user",
+      "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=user_1790111966109",
+      "bio": "Music explorer on KingPlay.",
+      "createdAt": "2026-09-22T21:19:26.233Z",
+      "passwordHash": "$2b$10$jsCh/iKQ.bTuoE1izXBdZOjKKIJ1KGyMN7C9NY2HiaZBKEb4mhF5u"
+    },
+    {
+      "id": "usr_ba600128",
+      "name": "u",
+      "username": "sm1374474",
+      "email": "sm1374474@gmail.com",
+      "role": "user",
+      "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=sm1374474",
+      "bio": "Music explorer on KingPlay.",
+      "createdAt": "2026-09-22T21:36:30.517Z",
+      "passwordHash": "$2b$10$Yc5BPZiP54TAfU/0D1bDIeA0C20PfXUPQEEdcOCtlC3MYwdmBhkFW"
+    },
+    {
+      "id": "usr_fde882d1",
+      "name": "Owner Sayan 1790114211398",
+      "username": "sayan_1790114211398",
+      "email": "sayan_1790114211398@kingplay.app",
+      "role": "user",
+      "avatarUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=sayan_1790114211398",
+      "bio": "Music explorer on KingPlay.",
+      "createdAt": "2026-09-22T21:56:52.732Z",
+      "passwordHash": "$2b$10$XVyjfY2ckdsbwJa/M9xIb.68kZZYNE3hxiU1bY5Y2YOyzr0.wdHa6"
+    },
+    {
+      "id": "OcScfCnLp8WYTqJCTI7vKtvR9wv1",
+      "name": "Sudip Mondal",
+      "username": "sayanmonda278",
+      "email": "sayanmonda278@gmail.com",
+      "role": "user",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLR-120S2xDefzygf8Keu8BYF6juy3z8kJouORX8JVqxkvQez1t=s96-c",
+      "bio": "Music explorer on KingPlay.",
+      "createdAt": "2026-09-23T10:41:06.299Z",
+      "passwordHash": ""
+    },
+    {
+      "id": "4tlEQtGaX6bgTjWyY5J9SD6Q1Uo2",
+      "name": "Sudip Mondal",
+      "username": "sudipmondal4220",
+      "email": "sudipmondal4220@gmail.com",
+      "role": "user",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLTzkDmYiBAZpYmKlzYO1fK8In2sIugh9p7kakWb5dYhHz876Q=s96-c",
+      "bio": "Music explorer on KingPlay.",
+      "createdAt": "2026-09-23T10:44:02.417Z",
+      "passwordHash": ""
+    }
+  ],
+  "songs": [
+    {
+      "id": "sng_c0eed998",
+      "youtubeVideoId": "wa--U0DVyRU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wa--U0DVyRU",
+      "title": "Akhil Sachdeva | Abhishek Kumar | Mannara Chopra | Anshul Garg",
+      "artist": "Saanware",
+      "channelName": "Play DMF",
+      "thumbnailUrl": "https://img.youtube.com/vi/wa--U0DVyRU/hqdefault.jpg",
+      "duration": 240,
+      "description": "Imported from YouTube channel: Play DMF",
+      "genre": "Lo-Fi / Synth",
+      "isAvailable": true,
+      "createdBy": "4tlEQtGaX6bgTjWyY5J9SD6Q1Uo2",
+      "addedByUsername": "sudipmondal4220",
+      "createdAt": "2026-09-23T10:44:16.558Z",
+      "playsCount": 1
+    },
+    {
+      "id": "sng_27c4eb02",
+      "youtubeVideoId": "suk3mW0tDPA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=suk3mW0tDPA",
+      "title": "Mehabooba Video Song (Hindi) | KGF Chapter 2 | RockingStar Yash | Prashanth Neel|Ravi Basrur|Hombale",
+      "artist": "MRT Music",
+      "channelName": "MRT Music",
+      "thumbnailUrl": "https://img.youtube.com/vi/suk3mW0tDPA/hqdefault.jpg",
+      "duration": 240,
+      "description": "Imported from YouTube channel: MRT Music",
+      "genre": "Lo-Fi / Synth",
+      "isAvailable": true,
+      "createdBy": "usr_ed7fd54d",
+      "addedByUsername": "sm1374474@gmail.com",
+      "createdAt": "2026-09-22T21:21:06.119Z",
+      "playsCount": 1
+    },
+    {
+      "id": "sng_512610ea",
+      "youtubeVideoId": "m70d24MiCPA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=m70d24MiCPA",
+      "title": "Late Night Chill | Audio Jukebox | Romantic Songs | Slow Bollywood Songs | Feel Good Hindi Songs",
+      "artist": "YRF Music",
+      "channelName": "YRF Music",
+      "thumbnailUrl": "https://img.youtube.com/vi/m70d24MiCPA/hqdefault.jpg",
+      "duration": 240,
+      "description": "Imported from YouTube channel: YRF Music",
+      "genre": "Lo-Fi / Synth",
+      "isAvailable": true,
+      "createdBy": "usr_demo_002",
+      "addedByUsername": "sayan",
+      "createdAt": "2026-09-22T20:33:35.864Z",
+      "playsCount": 1
+    },
+    {
+      "id": "sng_bbff70a2",
+      "youtubeVideoId": "41HX_5G6eqQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=41HX_5G6eqQ",
+      "title": "Barsaat 🌧️| All Trending Songs | Taare x Samjho Na x Safar x Bairan x Zulfein x Sahiba x Majboor |",
+      "artist": "Voxwaves",
+      "channelName": "Voxwaves",
+      "thumbnailUrl": "https://img.youtube.com/vi/41HX_5G6eqQ/hqdefault.jpg",
+      "duration": 240,
+      "description": "Imported from YouTube channel: Voxwaves",
+      "genre": "Lo-Fi / Synth",
+      "isAvailable": true,
+      "createdBy": "usr_demo_002",
+      "addedByUsername": "sayan",
+      "createdAt": "2026-09-22T20:22:48.571Z",
+      "playsCount": 4
+    },
+    {
+      "id": "sng_281a959d",
+      "youtubeVideoId": "2-244sTF7Iw",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2-244sTF7Iw",
+      "title": "Rimjhim E Dhara Te | Premer Kahini | Dev | Koel | Shaan |Jeet Gannguli | SVF",
+      "artist": "SVF",
+      "channelName": "SVF",
+      "thumbnailUrl": "https://img.youtube.com/vi/2-244sTF7Iw/hqdefault.jpg",
+      "duration": 240,
+      "description": "Imported from YouTube channel: SVF",
+      "genre": "Lo-Fi / Synth",
+      "isAvailable": true,
+      "createdBy": "usr_demo_002",
+      "addedByUsername": "sayan",
+      "createdAt": "2026-09-22T20:10:42.457Z",
+      "playsCount": 2
+    },
+    {
+      "id": "sng_bollywood_jukebox",
+      "youtubeVideoId": "I0b88L53Gbg",
+      "youtubeUrl": "https://youtu.be/I0b88L53Gbg",
+      "title": "Best Of Bollywood Dance Hits (Video Jukebox)",
+      "artist": "T-Series & Various Artists",
+      "channelName": "T-Series",
+      "thumbnailUrl": "https://img.youtube.com/vi/I0b88L53Gbg/hqdefault.jpg",
+      "duration": 3240,
+      "genre": "Dance / Bollywood / Party",
+      "isAvailable": true,
+      "description": "Nonstop high-energy Bollywood dance songs including Bom Diggy Diggy, Abhi Toh Party Shuru Hui Hai, Chammak Challo, Dilbar, and more!",
+      "createdBy": "usr_demo_002",
+      "addedByUsername": "sayan",
+      "createdAt": "2026-09-22T19:45:01.287Z",
+      "playsCount": 1421
+    },
+    {
+      "id": "sng_001",
+      "youtubeVideoId": "5qap5aO4i9A",
+      "youtubeUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+      "title": "Lofi Hip Hop Radio - Beats to Relax/Study to",
+      "artist": "Lofi Girl",
+      "channelName": "Lofi Girl",
+      "thumbnailUrl": "https://img.youtube.com/vi/5qap5aO4i9A/hqdefault.jpg",
+      "duration": 3600,
+      "genre": "Lo-Fi",
+      "isAvailable": true,
+      "description": "Chilled beats for late night exploration and calm contemplation.",
+      "createdBy": "usr_admin_001",
+      "addedByUsername": "admin",
+      "createdAt": "2026-09-15T19:45:01.287Z",
+      "playsCount": 2450
+    },
+    {
+      "id": "sng_002",
+      "youtubeVideoId": "4xDzrJKXOOY",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4xDzrJKXOOY",
+      "title": "SYNTHWAVE RADIO - Chill Synth / Retro Beats",
+      "artist": "Lofi Girl - Synthwave Boy",
+      "channelName": "Lofi Girl",
+      "thumbnailUrl": "https://img.youtube.com/vi/4xDzrJKXOOY/hqdefault.jpg",
+      "duration": 2700,
+      "genre": "Synthwave",
+      "isAvailable": true,
+      "description": "Retro futuristic synthesizers for midnight drives.",
+      "createdBy": "usr_admin_001",
+      "addedByUsername": "admin",
+      "createdAt": "2026-09-16T19:45:01.287Z",
+      "playsCount": 1890
+    },
+    {
+      "id": "sng_003",
+      "youtubeVideoId": "fJ9rUzIMcZQ",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "channelName": "Queen Official",
+      "thumbnailUrl": "https://img.youtube.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+      "duration": 359,
+      "genre": "Rock",
+      "isAvailable": true,
+      "description": "The monumental rock classic remastered in HD.",
+      "createdBy": "usr_demo_002",
+      "addedByUsername": "sayan",
+      "createdAt": "2026-09-17T19:45:01.287Z",
+      "playsCount": 4210
+    },
+    {
+      "id": "sng_004",
+      "youtubeVideoId": "hT_nvWreIhg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "channelName": "OneRepublic",
+      "thumbnailUrl": "https://img.youtube.com/vi/hT_nvWreIhg/hqdefault.jpg",
+      "duration": 257,
+      "genre": "Pop / Indie",
+      "isAvailable": true,
+      "description": "Energetic acoustic-driven rhythms for boundless roads.",
+      "createdBy": "usr_demo_002",
+      "addedByUsername": "sayan",
+      "createdAt": "2026-09-18T19:45:01.287Z",
+      "playsCount": 3120
+    },
+    {
+      "id": "sng_005",
+      "youtubeVideoId": "kXYiU_JCYtU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+      "title": "Numb (Official Music Video)",
+      "artist": "Linkin Park",
+      "channelName": "Linkin Park",
+      "thumbnailUrl": "https://img.youtube.com/vi/kXYiU_JCYtU/hqdefault.jpg",
+      "duration": 187,
+      "genre": "Alternative Rock",
+      "isAvailable": true,
+      "description": "Timeless nu-metal masterpiece and raw melodic emotion.",
+      "createdBy": "usr_admin_001",
+      "addedByUsername": "admin",
+      "createdAt": "2026-09-19T19:45:01.287Z",
+      "playsCount": 5200
+    },
+    {
+      "id": "sng_006",
+      "youtubeVideoId": "kJQP7kiw5Fk",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "title": "Despacito",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "channelName": "Luis Fonsi",
+      "thumbnailUrl": "https://img.youtube.com/vi/kJQP7kiw5Fk/hqdefault.jpg",
+      "duration": 281,
+      "genre": "Latin / Pop",
+      "isAvailable": true,
+      "description": "Global Latin acoustic hit with irresistible rhythm.",
+      "createdBy": "usr_demo_002",
+      "addedByUsername": "sayan",
+      "createdAt": "2026-09-20T19:45:01.287Z",
+      "playsCount": 1650
+    },
+    {
+      "id": "sng_007",
+      "youtubeVideoId": "JGwWNGJdvx8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "channelName": "Ed Sheeran",
+      "thumbnailUrl": "https://img.youtube.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+      "duration": 233,
+      "genre": "Acoustic / Pop",
+      "isAvailable": true,
+      "description": "Loop pedal acoustic magic and driving percussive cadence.",
+      "createdBy": "usr_admin_001",
+      "addedByUsername": "admin",
+      "createdAt": "2026-09-21T19:45:01.287Z",
+      "playsCount": 2980
+    },
+    {
+      "id": "sng_008",
+      "youtubeVideoId": "9bZkp7q19f0",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "title": "GANGNAM STYLE",
+      "artist": "PSY",
+      "channelName": "officialpsy",
+      "thumbnailUrl": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg",
+      "duration": 252,
+      "genre": "Electronic / Dance",
+      "isAvailable": true,
+      "description": "Electrifying beats and high energy stadium synths.",
+      "createdBy": "usr_admin_001",
+      "addedByUsername": "admin",
+      "createdAt": "2026-09-22T19:45:01.287Z",
+      "playsCount": 1840
+    }
+  ],
+  "playlists": [
+    {
+      "id": "ply_001",
+      "name": "Himalayan Highway - Motorcycle Ride",
+      "description": "Deep rumble, vast landscapes, and gritty rock tracks tailored for rough terrains and high passes.",
+      "coverImage": "https://img.youtube.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+      "ownerId": "usr_demo_002",
+      "ownerName": "Sayan Rider",
+      "visibility": "public",
+      "createdAt": "2026-09-18T19:45:01.287Z",
+      "updatedAt": "2026-09-22T19:45:01.287Z",
+      "songs": [
+        {
+          "id": "ps_01",
+          "songId": "sng_003",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 0
+        },
+        {
+          "id": "ps_02",
+          "songId": "sng_005",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 1
+        },
+        {
+          "id": "ps_03",
+          "songId": "sng_004",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "ply_002",
+      "name": "Midnight Synthwave & Neon Run",
+      "description": "Hypnotic retro arpeggios and deep sub-bass for nighttime cruises under the city glow.",
+      "coverImage": "https://img.youtube.com/vi/4xDzrJKXOOY/hqdefault.jpg",
+      "ownerId": "usr_admin_001",
+      "ownerName": "KingPlay Admin",
+      "visibility": "public",
+      "createdAt": "2026-09-17T19:45:01.287Z",
+      "updatedAt": "2026-09-22T19:45:01.287Z",
+      "songs": [
+        {
+          "id": "ps_04",
+          "songId": "sng_002",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 0
+        },
+        {
+          "id": "ps_05",
+          "songId": "sng_001",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "id": "ply_003",
+      "name": "KingPlay Global Top Anthem",
+      "description": "Curated chart-topping YouTube tracks loved by the KingPlay community.",
+      "coverImage": "https://img.youtube.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+      "ownerId": "usr_admin_001",
+      "ownerName": "KingPlay Admin",
+      "visibility": "public",
+      "createdAt": "2026-09-16T19:45:01.287Z",
+      "updatedAt": "2026-09-22T19:45:01.287Z",
+      "songs": [
+        {
+          "id": "ps_06",
+          "songId": "sng_007",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 0
+        },
+        {
+          "id": "ps_07",
+          "songId": "sng_004",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 1
+        },
+        {
+          "id": "ps_08",
+          "songId": "sng_006",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 2
+        },
+        {
+          "id": "ps_09",
+          "songId": "sng_008",
+          "addedAt": "2026-09-22T19:45:01.287Z",
+          "order": 3
+        }
+      ]
+    }
+  ],
+  "likes": [
+    {
+      "id": "lk_01",
+      "userId": "usr_demo_002",
+      "songId": "sng_001",
+      "createdAt": "2026-09-22T19:45:01.287Z"
+    },
+    {
+      "id": "lk_03",
+      "userId": "usr_admin_001",
+      "songId": "sng_002",
+      "createdAt": "2026-09-22T19:45:01.287Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "hist_1790160256562_zsiu",
+      "userId": "4tlEQtGaX6bgTjWyY5J9SD6Q1Uo2",
+      "songId": "sng_c0eed998",
+      "playedAt": "2026-09-23T10:44:16.562Z"
+    },
+    {
+      "id": "hist_1790112066261_lcsz",
+      "userId": "usr_ed7fd54d",
+      "songId": "sng_27c4eb02",
+      "playedAt": "2026-09-22T21:21:06.261Z"
+    },
+    {
+      "id": "hist_1790109216000_cbwn",
+      "userId": "usr_demo_002",
+      "songId": "sng_512610ea",
+      "playedAt": "2026-09-22T20:33:36.000Z"
+    },
+    {
+      "id": "hist_1790109194343_rvtb",
+      "userId": "usr_demo_002",
+      "songId": "sng_bbff70a2",
+      "playedAt": "2026-09-22T20:33:14.343Z"
+    },
+    {
+      "id": "hist_1790108672884_atye",
+      "userId": "usr_demo_002",
+      "songId": "sng_281a959d",
+      "playedAt": "2026-09-22T20:24:32.885Z"
+    },
+    {
+      "id": "hist_1790107764684_s458",
+      "userId": "usr_demo_002",
+      "songId": "sng_bollywood_jukebox",
+      "playedAt": "2026-09-22T20:09:24.684Z"
+    },
+    {
+      "id": "hist_01",
+      "userId": "usr_demo_002",
+      "songId": "sng_003",
+      "playedAt": "2026-09-22T18:45:01.287Z"
+    },
+    {
+      "id": "hist_02",
+      "userId": "usr_demo_002",
+      "songId": "sng_002",
+      "playedAt": "2026-09-22T17:45:01.287Z"
+    }
+  ],
+  "stories": [
+    {
+      "id": "sty_001",
+      "title": "Thunder in the Valley: Riding the Himalayan 411 Across Khardung La",
+      "slug": "riding-himalayan-411-khardung-la",
+      "excerpt": "Not built for speed, but built for surviving every road. A journey through biting altitude with a single-cylinder soundtrack.",
+      "category": "Adventure & Sound",
+      "tags": [
+        "motorcycle",
+        "himalayan",
+        "travel",
+        "soundtrack"
+      ],
+      "readingTime": "5 min read",
+      "authorId": "usr_demo_002",
+      "authorName": "Sayan Rider",
+      "coverImage": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=800&auto=format&fit=crop&q=80",
+      "published": true,
+      "likesCount": 142,
+      "likedBy": [
+        "usr_admin_001"
+      ],
+      "createdAt": "2026-09-19T19:45:01.287Z",
+      "updatedAt": "2026-09-22T19:45:01.287Z",
+      "content": "### Some machines are made for attention — this one is made for adventure.\n\nWhen the ignition catches at 4,000 meters above sea level, the LS410 engine lets out a low, deliberate thrum. It isn't the high-strung scream of a sportbike or the manufactured chrome roar of a boulevard cruiser. It sounds like rock hitting hard gravel — rhythmic, unhurried, steadfast.\n\n#### The Sound of the High Desert\nRiding into the Nubra Valley, the wind roars across the visor at 60 km/h. At that pace, you aren't fighting the terrain; you are listening to it. The tire lugs bite into the scree, echoing off granite cliffs that have stood for fifty million years. \n\nMusic becomes different here. In your helmet's Bluetooth comms, high-gain guitars and expansive synthwave pads mingle with the piston strokes. There is an unmistakable synchronicity when a guitar solo drops right as the road twists into an endless panoramic descent over snow-capped peaks.\n\n#### Surviving Every Road\n\"Not built for speed… built for surviving every road.\" When the river crossing at Shyok turns freezing cold and the water climbs to the crankcase, you don't panic. You drop into first gear, roll on the throttle, and let the torque pull you through. KingPlay was built for wanderers who demand their music everywhere the trail leads."
+    },
+    {
+      "id": "sty_002",
+      "title": "The Analog Resonance: Why Tape, Tubes, and Vinyl Still Captivate Modern Ears",
+      "slug": "the-analog-resonance-why-vinyl-captivates",
+      "excerpt": "In an era of hyper-compressed digital streams, tactile soundscapes and physical imperfections offer warmth our brains crave.",
+      "category": "Audio Culture",
+      "tags": [
+        "audiophile",
+        "analog",
+        "sound-engineering",
+        "vinyl"
+      ],
+      "readingTime": "4 min read",
+      "authorId": "usr_admin_001",
+      "authorName": "KingPlay Admin",
+      "coverImage": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&auto=format&fit=crop&q=80",
+      "published": true,
+      "likesCount": 89,
+      "likedBy": [
+        "usr_demo_002"
+      ],
+      "createdAt": "2026-09-17T19:45:01.287Z",
+      "updatedAt": "2026-09-22T19:45:01.287Z",
+      "content": "### The Beauty of Harmonic Distortion\n\nEvery modern digital audio workstation offers mathematical perfection. You can align waveforms to the picosecond, quantize drum hits to rigid grids, and pitch-correct vocals until not a cent of drift remains. Yet, artists and listeners continually return to the warmth of vacuum tubes and magnetic tape saturation.\n\n#### The Brain and Psychoacoustics\nHuman hearing evolved to discern subtle physical vibrations in space. When sound travels through air and reflects off wood, stone, or iron, it picks up second-order harmonic distortions. Analog preamplifiers introduce these exact warm overtones. Far from being a flaw, this harmonic saturation glues disparate instruments together, making drums punchier and voices intimate.\n\n#### KingPlay's Sound Vision\nWhether you stream through YouTube's audio pipeline or join a lossless Jam session with friends, true listening is about connection. KingPlay celebrates both the classic analog ethos and digital ubiquity."
+    },
+    {
+      "id": "sty_003",
+      "title": "Jam Mode Engineering: Synchronizing Microseconds Across the Web",
+      "slug": "jam-mode-engineering-realtime-sync",
+      "excerpt": "How KingPlay synchronizes audio playback across continents with drift compensation and low-latency WebSockets.",
+      "category": "Tech & Architecture",
+      "tags": [
+        "websockets",
+        "engineering",
+        "realtime",
+        "jam"
+      ],
+      "readingTime": "6 min read",
+      "authorId": "usr_admin_001",
+      "authorName": "KingPlay Admin",
+      "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&auto=format&fit=crop&q=80",
+      "published": true,
+      "likesCount": 118,
+      "likedBy": [],
+      "createdAt": "2026-09-20T19:45:01.287Z",
+      "updatedAt": "2026-09-22T19:45:01.287Z",
+      "content": "### Collaborative Listening Without Borders\n\nSharing music used to mean passing a pair of wired earphones or sitting together on a dorm room couch. When KingPlay introduced Jam Mode, the technical challenge was clear: how do two or ten people in different cities hear the same beat drops simultaneously?\n\n#### Drift Detection & Clock Offset\nBecause client device clocks can differ by hundreds of milliseconds, the host timestamp is calculated using an initial round-trip latency handshake. Whenever the host plays, seeks, or skips:\n\n1. A high-priority event is broadcast via Socket.IO with host playhead position and monotonic timestamp.\n2. Participant clients compute the transport latency and smooth out drift.\n3. Micro-adjustments ensure no jarring audio skips, keeping everyone in absolute harmony."
+    }
+  ],
+  "jamRooms": [
+    {
+      "roomCode": "KP-7X92",
+      "name": "Midnight Riders Club",
+      "hostId": "usr_demo_002",
+      "hostUsername": "sayan",
+      "currentTrack": {
+        "id": "sng_002",
+        "youtubeVideoId": "4xDzrJKXOOY",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4xDzrJKXOOY",
+        "title": "SYNTHWAVE RADIO - Chill Synth / Retro Beats",
+        "artist": "Lofi Girl - Synthwave Boy",
+        "channelName": "Lofi Girl",
+        "thumbnailUrl": "https://img.youtube.com/vi/4xDzrJKXOOY/hqdefault.jpg",
+        "duration": 2700,
+        "genre": "Synthwave",
+        "isAvailable": true,
+        "description": "Retro futuristic synthesizers for midnight drives.",
+        "createdBy": "usr_admin_001",
+        "addedByUsername": "admin",
+        "createdAt": "2026-09-16T19:45:01.287Z",
+        "playsCount": 1890
+      },
+      "isPlaying": false,
+      "position": 45,
+      "lastUpdatedTimestamp": 1790106301287,
+      "queue": [
+        {
+          "id": "sng_001",
+          "youtubeVideoId": "5qap5aO4i9A",
+          "youtubeUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+          "title": "Lofi Hip Hop Radio - Beats to Relax/Study to",
+          "artist": "Lofi Girl",
+          "channelName": "Lofi Girl",
+          "thumbnailUrl": "https://img.youtube.com/vi/5qap5aO4i9A/hqdefault.jpg",
+          "duration": 3600,
+          "genre": "Lo-Fi",
+          "isAvailable": true,
+          "description": "Chilled beats for late night exploration and calm contemplation.",
+          "createdBy": "usr_admin_001",
+          "addedByUsername": "admin",
+          "createdAt": "2026-09-15T19:45:01.287Z",
+          "playsCount": 2450
+        },
+        {
+          "id": "sng_003",
+          "youtubeVideoId": "fJ9rUzIMcZQ",
+          "youtubeUrl": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+          "title": "Bohemian Rhapsody",
+          "artist": "Queen",
+          "channelName": "Queen Official",
+          "thumbnailUrl": "https://img.youtube.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+          "duration": 359,
+          "genre": "Rock",
+          "isAvailable": true,
+          "description": "The monumental rock classic remastered in HD.",
+          "createdBy": "usr_demo_002",
+          "addedByUsername": "sayan",
+          "createdAt": "2026-09-17T19:45:01.287Z",
+          "playsCount": 4210
+        }
+      ],
+      "participants": [
+        {
+          "socketId": "sock_demo_host",
+          "userId": "usr_demo_002",
+          "username": "sayan",
+          "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+          "isHost": true,
+          "joinedAt": "2026-09-22T19:45:01.287Z"
+        }
+      ],
+      "everyoneCanControl": false,
+      "createdAt": "2026-09-22T19:45:01.287Z"
+    },
+    {
+      "roomCode": "KP-JX36",
+      "name": "Sayan Rider's Jam Session",
+      "hostId": "usr_demo_002",
+      "hostUsername": "sayan",
+      "currentTrack": {
+        "id": "sng_bbff70a2",
+        "youtubeVideoId": "41HX_5G6eqQ",
+        "youtubeUrl": "https://www.youtube.com/watch?v=41HX_5G6eqQ",
+        "title": "Barsaat 🌧️| All Trending Songs | Taare x Samjho Na x Safar x Bairan x Zulfein x Sahiba x Majboor |",
+        "artist": "Voxwaves",
+        "channelName": "Voxwaves",
+        "thumbnailUrl": "https://img.youtube.com/vi/41HX_5G6eqQ/hqdefault.jpg",
+        "duration": 240,
+        "description": "Imported from YouTube channel: Voxwaves",
+        "genre": "Lo-Fi / Synth",
+        "isAvailable": true,
+        "createdBy": "usr_demo_002",
+        "addedByUsername": "sayan",
+        "createdAt": "2026-09-22T20:22:48.571Z",
+        "playsCount": 4
+      },
+      "isPlaying": false,
+      "position": 627.671628164032,
+      "lastUpdatedTimestamp": 1790108710303,
+      "queue": [
+        {
+          "id": "sng_281a959d",
+          "youtubeVideoId": "2-244sTF7Iw",
+          "youtubeUrl": "https://www.youtube.com/watch?v=2-244sTF7Iw",
+          "title": "Rimjhim E Dhara Te | Premer Kahini | Dev | Koel | Shaan |Jeet Gannguli | SVF",
+          "artist": "SVF",
+          "channelName": "SVF",
+          "thumbnailUrl": "https://img.youtube.com/vi/2-244sTF7Iw/hqdefault.jpg",
+          "duration": 240,
+          "description": "Imported from YouTube channel: SVF",
+          "genre": "Lo-Fi / Synth",
+          "isAvailable": true,
+          "createdBy": "usr_demo_002",
+          "addedByUsername": "sayan",
+          "createdAt": "2026-09-22T20:10:42.457Z",
+          "playsCount": 2
+        },
+        {
+          "id": "sng_bollywood_jukebox",
+          "youtubeVideoId": "I0b88L53Gbg",
+          "youtubeUrl": "https://youtu.be/I0b88L53Gbg",
+          "title": "Best Of Bollywood Dance Hits (Video Jukebox)",
+          "artist": "T-Series & Various Artists",
+          "channelName": "T-Series",
+          "thumbnailUrl": "https://img.youtube.com/vi/I0b88L53Gbg/hqdefault.jpg",
+          "duration": 3240,
+          "genre": "Dance / Bollywood / Party",
+          "isAvailable": true,
+          "description": "Nonstop high-energy Bollywood dance songs including Bom Diggy Diggy, Abhi Toh Party Shuru Hui Hai, Chammak Challo, Dilbar, and more!",
+          "createdBy": "usr_demo_002",
+          "addedByUsername": "sayan",
+          "createdAt": "2026-09-22T19:45:01.287Z",
+          "playsCount": 1421
+        },
+        {
+          "id": "sng_001",
+          "youtubeVideoId": "5qap5aO4i9A",
+          "youtubeUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+          "title": "Lofi Hip Hop Radio - Beats to Relax/Study to",
+          "artist": "Lofi Girl",
+          "channelName": "Lofi Girl",
+          "thumbnailUrl": "https://img.youtube.com/vi/5qap5aO4i9A/hqdefault.jpg",
+          "duration": 3600,
+          "genre": "Lo-Fi",
+          "isAvailable": true,
+          "description": "Chilled beats for late night exploration and calm contemplation.",
+          "createdBy": "usr_admin_001",
+          "addedByUsername": "admin",
+          "createdAt": "2026-09-15T19:45:01.287Z",
+          "playsCount": 2450
+        }
+      ],
+      "participants": [],
+      "everyoneCanControl": false,
+      "createdAt": "2026-09-22T20:25:09.428Z"
+    }
+  ]
+}
