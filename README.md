@@ -1,4 +1,4 @@
-🎵 JKPlay
+🎵 KINGPlay
 
 A modern music + stories platform with YouTube-powered playback,
 playlists, user profiles, Jam Mode, Sleep Timer, and Firebase
